@@ -1,4 +1,4 @@
-# Adaptive Face Recognition and Emotion Detection
+# Adaptive Face Recognition Detection
 
 This project provides a comprehensive solution for face recognition and emotion detection in images. It consists of several modules that handle different aspects of the process, such as profiling, database management, and image processing.
 
