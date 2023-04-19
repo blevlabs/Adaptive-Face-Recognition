@@ -1,0 +1,6 @@
+opencv-python
+deepface
+git+https://github.com/CogWorksBWSI/facenet_models.git
+scikit-image
+transformers
+Pillow
